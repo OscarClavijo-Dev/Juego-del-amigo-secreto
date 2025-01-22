@@ -48,6 +48,8 @@ function actualizarLista() {
 // Función para sortear un amigo
 btnDraw.addEventListener('click', () => {
     resultado.innerHTML = ""; // Limpiar resultado previo
+    const lista = document.getElementById('listaAmigos');
+    lista.innerHTML = "";
 
     // Validación: verificar que haya nombres en la lista
     if (amigos.length === 0) {
@@ -63,4 +65,7 @@ btnDraw.addEventListener('click', () => {
     const resultadoTexto = document.createElement('p');
     resultadoTexto.textContent = `El amigo secreto es: ${amigoSorteado}`;
     resultado.appendChild(resultadoTexto);
+    resultado.innerHTML = `El amigo secreto es: <strong>${amigoSorteado}</strong>`;
+   
+
 });
