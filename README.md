@@ -47,10 +47,13 @@ https://oscarclavijo-dev.github.io/Juego-del-amigo-secreto/
 ---
 
 ## Cómo Ejecutar el Proyecto 📖
-1.***Abre el proyecto en tu navegador (ver sección de instalación)***.
-2.***Añade nombres***: Ingresa los nombres de los participantes en el campo de texto y haz clic en "Añadir".
-3.***Sortea***: Presiona el botón "Sortear amigo secreto" para ver los resultados.
-4.***Disfruta del juego***: Después del sorteo, se mostrará un mensaje con la asignación del amigo secreto, y la lista de participantes se eliminará para garantizar el secreto.
+1.**Abre el proyecto en tu navegador (ver sección de instalación)***.
+
+2.**Añade nombres**: Ingresa los nombres de los participantes en el campo de texto y haz clic en "Añadir".
+
+3.**Sortea**: Presiona el botón "Sortear amigo secreto" para ver los resultados.
+
+4.**Disfruta del juego**: Después del sorteo, se mostrará un mensaje con la asignación del amigo secreto, y la lista de participantes se eliminará para garantizar el secreto.
 
 
 
