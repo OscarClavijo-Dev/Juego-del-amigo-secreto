@@ -35,6 +35,7 @@ Antes de comenzar, asegúrate de tener instalado en tu máquina o celular:
 https://oscarclavijo-dev.github.io/Juego-del-amigo-secreto/
 
 2.**Puedes escanear el siguiente codigo QR**:
+
 ![image](https://github.com/user-attachments/assets/cca166dc-9748-4231-a006-740580066ead)
 
 
