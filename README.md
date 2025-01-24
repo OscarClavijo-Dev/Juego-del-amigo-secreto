@@ -83,8 +83,11 @@ https://oscarclavijo-dev.github.io/Juego-del-amigo-secreto/
 ## Funcionalidades 🌟
 
 -Agregar y visualizar nombres de participantes.
+
 -Sorteo aleatorio de amigos secretos.
+
 -Eliminación automática de la lista después del sorteo para mantener la confidencialidad.
+
 -Interfaz interactiva y diseño responsivo.
 
 ---
@@ -92,7 +95,9 @@ https://oscarclavijo-dev.github.io/Juego-del-amigo-secreto/
 ## Tecnologías Utilizadas 🛠️ 
 
 -**HTML5**: Estructura del proyecto.
+
 -**CSS3**: Diseño y estilos visuales.
+
 -**JavaScript**: Lógica del juego.
 
 ---
