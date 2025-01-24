@@ -6,8 +6,8 @@ Un juego interactivo desarrollado con HTML, CSS y JavaScript para realizar sorte
 
 ## 📋 Requisitos Previos
 
-Antes de comenzar, asegúrate de tener instalado en tu máquina:
-- Un navegador web actualizado (Chrome, Firefox, Edge, etc.).
+Antes de comenzar, asegúrate de tener instalado en tu máquina o celular:
+- Un navegador web actualizado (Chrome, Firefox, Edge, etc.). ***"Aplica para celulares"***
 - Opcional: Un servidor local como [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) si prefieres ejecutarlo en un entorno más controlado.
 
 ---
