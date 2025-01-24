@@ -128,7 +128,9 @@ https://oscarclavijo-dev.github.io/Juego-del-amigo-secreto/
 Las contribuciones son bienvenidas. Si deseas agregar nuevas funcionalidades o mejoras al proyecto, puedes:
 
 1.Crear una branch de este repositorio.
+
 2.Hacer los cambios necesarios en la nueva rama.
+
 3.Enviar un pull request detallando los cambios realizados.
 
 ---
