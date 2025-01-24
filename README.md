@@ -26,7 +26,7 @@ Antes de comenzar, asegúrate de tener instalado en tu máquina o celular:
    
 3. **Abre el archivo principal en tu navegador favorito**:
    - **Si prefieres el método manual**: Haz doble clic en el archivo index.html.
-   - ***si prefieres ejecutarlo con servidor local**: Usa Live Server u otra herramienta similar para ejecutar el archivo. prefreiblemente usa el edito visual StudioCode e instala esta extensión.
+   - **Si prefieres ejecutarlo con servidor local**: Usa Live Server u otra herramienta similar para ejecutar el archivo. preferiblemente usa el editor: visual Studio Code e instala esta extensión.
   
 ---
 ## Si no cuentas con un Pc para abrir los archivos,también puedes ejecutarlo en tu celular directamente 📱
