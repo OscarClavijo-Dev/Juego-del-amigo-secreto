@@ -22,12 +22,22 @@ Antes de comenzar, asegúrate de tener instalado en tu máquina:
    ```consola o terminal Git bash
       cd challenge-amigo-secreto
 
-   ``` Si lo prefires puedes descargar los archivos y ejecutarlo en tu editor de codigo favorito, no olvides tener live server.
+   ``` Si lo prefieres puedes descargar los archivos y ejecutarlo en tu editor de codigo favorito, no olvides tenerla extensión de live server.
    
 3. **Abre el archivo principal en tu navegador favorito**:
    - **Si prefieres el método manual**: Haz doble clic en el archivo index.html.
    - ***si prefieres ejecutarlo con servidor local**: Usa Live Server u otra herramienta similar para ejecutar el archivo. prefreiblemente usa el edito visual StudioCode e instala esta extensión.
   
+---
+## Si no cuentas con un Pc para abrir los archivos,también puedes ejecutarlo en tu celular directamente 📱
+
+1.**Abre el siguiente link**: 
+https://oscarclavijo-dev.github.io/Juego-del-amigo-secreto/
+
+2.**Puedes escanear el siguiente codigo QR**:
+![image](https://github.com/user-attachments/assets/cca166dc-9748-4231-a006-740580066ead)
+
+
 ---
 
 ## ⚙️ Dependencias
@@ -40,6 +50,8 @@ Antes de comenzar, asegúrate de tener instalado en tu máquina:
 2.***Añade nombres***: Ingresa los nombres de los participantes en el campo de texto y haz clic en "Añadir".
 3.***Sortea***: Presiona el botón "Sortear amigo secreto" para ver los resultados.
 4.***Disfruta del juego***: Después del sorteo, se mostrará un mensaje con la asignación del amigo secreto, y la lista de participantes se eliminará para garantizar el secreto.
+
+
 
 ---
 
@@ -96,7 +108,7 @@ Antes de comenzar, asegúrate de tener instalado en tu máquina:
 
   ![image](https://github.com/user-attachments/assets/98823df1-f19b-436b-936c-cfa8383c7f5c)
 
-  !Disfruta el juego!
+  **!Disfruta del juego!**
   
 ---
 
