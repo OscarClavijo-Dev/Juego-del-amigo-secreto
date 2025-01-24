@@ -63,21 +63,24 @@ https://oscarclavijo-dev.github.io/Juego-del-amigo-secreto/
 1.**No se ven los estilos o el diseño está roto**
 
 -Asegúrate de que los archivos ***style.css*** y ***app.js*** están en el mismo directorio que el archivo ***index.html***.
+
 -Verifica que el navegador no esté bloqueando recursos externos.
 
 2.**El botón "Añadir" no funciona**
 
 -Comprueba que JavaScript está habilitado en tu navegador.
+
 -Abre la consola del navegador ***(F12 o Ctrl+Shift+I)*** para ver errores y solucionarlos.
 
 3.**Sorteo no funciona**
 
 --Revisa si has agregado al menos dos nombres antes de presionar ***"Sortear"***.
+
 --Asegúrate de no haber modificado el archivo ***app.js*** accidentalmente.
 
 ---
 
-##🌟 Funcionalidades
+## Funcionalidades 🌟
 
 -Agregar y visualizar nombres de participantes.
 -Sorteo aleatorio de amigos secretos.
@@ -86,7 +89,7 @@ https://oscarclavijo-dev.github.io/Juego-del-amigo-secreto/
 
 ---
 
-##🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas 🛠️ 
 
 -**HTML5**: Estructura del proyecto.
 -**CSS3**: Diseño y estilos visuales.
@@ -94,7 +97,7 @@ https://oscarclavijo-dev.github.io/Juego-del-amigo-secreto/
 
 ---
 
-##📷 Captura de Pantalla
+## Captura de Pantalla 📷
 
 -**Interfaz principal del juego**
 ![image](https://github.com/user-attachments/assets/2735adfd-65be-41fc-8d38-989dae0d720f)
